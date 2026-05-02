@@ -1,0 +1,7 @@
+.nav-item{
+    transition: all 0.2s linear;
+    border-radius:5px ;
+}
+.nav-item:hover{
+    background-color: rgba(128, 128, 128, 0.406);
+}
